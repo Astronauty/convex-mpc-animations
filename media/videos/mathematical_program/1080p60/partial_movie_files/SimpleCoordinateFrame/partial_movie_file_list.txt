@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/daniel/Documents/Python-Projects/mathematical_program_animations/media/videos/mathematical_program/1080p60/partial_movie_files/SimpleCoordinateFrame/3977891868_1475802299_2623119064.mp4'
+file 'file:/Users/daniel/Documents/Python-Projects/mathematical_program_animations/media/videos/mathematical_program/1080p60/partial_movie_files/SimpleCoordinateFrame/2852726489_2919340033_1788688996.mp4'
+file 'file:/Users/daniel/Documents/Python-Projects/mathematical_program_animations/media/videos/mathematical_program/1080p60/partial_movie_files/SimpleCoordinateFrame/2852726489_1745234327_1603823732.mp4'
+file 'file:/Users/daniel/Documents/Python-Projects/mathematical_program_animations/media/videos/mathematical_program/1080p60/partial_movie_files/SimpleCoordinateFrame/2852726489_2919340033_2317336324.mp4'
+file 'file:/Users/daniel/Documents/Python-Projects/mathematical_program_animations/media/videos/mathematical_program/1080p60/partial_movie_files/SimpleCoordinateFrame/2852726489_784179552_2587787054.mp4'
